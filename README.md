@@ -1,2 +1,2 @@
 # Test1
-Repository for test projects
+Repository for Spark (Particle) email to SMS project
